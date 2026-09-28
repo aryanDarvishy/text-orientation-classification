@@ -1,0 +1,14 @@
+# datasets and downloaded files
+data/
+*.zip
+dataset_*.txt
+
+# intermediate checkpoints
+model_*_best.pth
+
+# python / jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
